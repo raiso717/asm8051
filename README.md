@@ -9,3 +9,7 @@ timeradvance: 高階控制delay之數。
 正轉，f = 4。
 int0:正轉，f = 8。DELAY 2S。
 int1:反轉，f = 2。DELAY 1S。
+
+## project003
+dispfunc: 高階控disp之術。
+因為我們要顯示count2，在這裡他像是C的全域變數，所以可以直接寫disp，然後顯示當前的count2。
